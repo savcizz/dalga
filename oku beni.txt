@@ -1,0 +1,14 @@
+start dalga.bat ile programı başlatabilirsin, eğer çalışmaz ise klasörün hedef yolunu silip "cmd" yaz ve enterla. 
+
+açılan terminalde 
+
+py dalga.py 
+
+yazdığında program başlar.
+
+
+python bilgisiyarında yüklüyse muhtemelen dalga.py adlı dosyaya çift tıklayınca da açılacaktır.
+
+iyi eğlenceler. geliştirmek serbest
+
+instagram : savcizz

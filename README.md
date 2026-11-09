@@ -1,3 +1,6 @@
+
+
+
 start dalga.bat ile programı başlatabilirsin, eğer çalışmaz ise klasörün hedef yolunu silip "cmd" yaz ve enterla. 
 
 açılan terminalde 
@@ -8,6 +11,8 @@ yazdığında program başlar.
 
 
 python bilgisiyarında yüklüyse muhtemelen dalga.py adlı dosyaya çift tıklayınca da açılacaktır.
+
+şu an tek uyumlu oldugu : apex tkl3 denendi. klavyen için iletişime geç
 
 iyi eğlenceler. geliştirmek serbest
 
